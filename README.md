@@ -1,4 +1,4 @@
-<img width="1897" height="947" alt="image" src="https://github.com/user-attachments/assets/89c99591-a74f-45eb-95a9-ed3ee0a22d2b" /># Exp-7--Upcounter
+
 # Design and Verification of a 4-bit Synchronous Up-Counter
 ## Aim
 To design and verify a 4-bit Synchronous Up-Counter using Verilog HDL, and to observe its behaviour using a testbench and VCD waveform.
